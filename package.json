@@ -1,0 +1,18 @@
+{
+  "name": "flist",
+  "version": "1.0.0",
+  "description": "walk through fs tree and find all the files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/node-flist.git"
+  },
+  "author": "Nathan Zadoks",
+  "license": "BSD",
+  "dependencies": {
+    "async": "~0.1.22"
+  }
+}

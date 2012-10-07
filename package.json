@@ -1,6 +1,6 @@
 {
   "name": "flist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "walk through fs tree and find all the files.",
   "main": "index.js",
   "scripts": {
